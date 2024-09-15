@@ -1,11 +1,15 @@
+html,
 body {
-  background-color: bisque;
+  height: 100%;
+  margin: 0;
+  background-color: rgb(194, 214, 243);
   color: rgb(27, 29, 29);
+  display: flex;
+  flex-direction: column;
 }
 
 a {
   text-decoration: none;
-  
 }
 
 .nav li a {
@@ -14,6 +18,8 @@ a {
 }
 
 .upper {
+  padding: 0em 1em;
+  background-color: rgb(80, 123, 224);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -25,4 +31,32 @@ a {
   list-style: none;
 }
 
+.assignments {
+  display: flex;
+  justify-content: center;
+  margin-top: 1em;
+}
 
+.assignment {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.5em;
+  background-color: rgb(166, 197, 224);
+  border-color: bisque;
+  border-radius: 3%;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.content {
+  flex: 1;
+  padding: 0em 1em;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 0.5em 0em;
+  background-color: rgb(80, 123, 224);
+}

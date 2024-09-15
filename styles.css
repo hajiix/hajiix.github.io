@@ -1,0 +1,28 @@
+body {
+  background-color: bisque;
+  color: rgb(27, 29, 29);
+}
+
+a {
+  text-decoration: none;
+  
+}
+
+.nav li a {
+  font-size: x-large;
+  color: rgb(27, 29, 29);
+}
+
+.upper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav {
+  display: flex;
+  gap: 2em;
+  list-style: none;
+}
+
+

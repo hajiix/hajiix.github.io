@@ -3,5 +3,10 @@
     "header": "Assignment 0: Dummy Assignment",
     "description": "This is a dummy assignment for week 0 to learn how to submit assignments",
     "link": "https://github.com/hajiix/iamhaji0-assignment-0"
+  },
+  {
+    "header": "Assignment 1: Data Collection and Analysis",
+    "description": "In this assignment, we collected timestamps and elevator numbers that arrived in the CDS building. Our goal was to find the most optimal position to stand to minimize our walking time to the next elevator.",
+    "link": "https://github.com/hajiix/iamhaji0-assignment-1"
   }
 ]

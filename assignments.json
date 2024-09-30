@@ -8,5 +8,9 @@
     "header": "Assignment 1: Data Collection and Analysis",
     "description": "In this assignment, we collected timestamps and elevator numbers that arrived in the CDS building. Our goal was to find the most optimal position to stand to minimize our walking time to the next elevator.",
     "link": "https://github.com/hajiix/iamhaji0-assignment-1"
+  }, {
+    "header": "Assignment 2: KMeans Clustering Visualization Webpage",
+    "description": "In this assignment, we created a KMeans Clustering Visualization where the user can input the number of clusters and choose how they want to initialize the centers. They can all also step through the algorithm or skip to the end where the data converges. They also are given the ability to generate random datasets and reset any algorithm.",
+    "link": "https://github.com/hajiix/iamhaji0-assignment-2"
   }
 ]

@@ -6,17 +6,22 @@
   },
   {
     "header": "Assignment 1: Data Collection and Analysis",
-    "description": "In this assignment, we collected timestamps and elevator numbers that arrived in the CDS building. Our goal was to find the most optimal position to stand to minimize our walking time to the next elevator.",
+    "description": "In this assignment, I collected timestamps and elevator numbers that arrived in the CDS building. Our goal was to find the most optimal position to stand to minimize our walking time to the next elevator.",
     "link": "https://github.com/hajiix/iamhaji0-assignment-1"
   },
   {
     "header": "Assignment 2: KMeans Clustering Visualization Webpage",
-    "description": "In this assignment, we created a KMeans Clustering Visualization where the user can input the number of clusters and choose how they want to initialize the centers. They can all also step through the algorithm or skip to the end where the data converges. They also are given the ability to generate random datasets and reset any algorithm. Youtube Link: https://youtu.be/JXiVRMyyUsc",
+    "description": "In this assignment, I created a KMeans Clustering Visualization where the user can input the number of clusters and choose how they want to initialize the centers. They can all also step through the algorithm or skip to the end where the data converges. They also are given the ability to generate random datasets and reset any algorithm. Demo Link: https://youtu.be/JXiVRMyyUsc",
     "link": "https://github.com/hajiix/iamhaji0-assignment-2"
   },
   {
     "header": "Assignment 3: Singular Value Decomposition",
-    "description": "In this assignment, we applied Singular Value Decomposition (SVD) as a preprocessing step to a MNIST dataset and trained a logistic regression classifier. We then compared the model performance and training time when using different levels of SVD for dimensionality reduction.",
+    "description": "In this assignment, I applied Singular Value Decomposition (SVD) as a preprocessing step to a MNIST dataset and trained a logistic regression classifier. I then compared the model performance and training time when using different levels of SVD for dimensionality reduction.",
     "link": "https://github.com/hajiix/iamhaji0-assignment-3"
+  },
+  {
+    "header":"Assignment 4: Latent Semantic Analysis Search Engine webpage",
+    "description":"In this assignment, I developed an interactive web application that implements a basic search engine using Latent Semantic Analysis (LSA). The search engine takes a user’s query, perform LSA on a pool of documents, and returns the top documents based on cosine similarity. Demo Link: https://www.youtube.com/shorts/8y-M4dweGbg",
+    "link": "https://github.com/hajiix/iamhaji0-assignment-4"
   }
 ]

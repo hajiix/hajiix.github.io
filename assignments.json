@@ -20,8 +20,13 @@
     "link": "https://github.com/hajiix/iamhaji0-assignment-3"
   },
   {
-    "header":"Assignment 4: Latent Semantic Analysis Search Engine webpage",
-    "description":"In this assignment, I developed an interactive web application that implements a basic search engine using Latent Semantic Analysis (LSA). The search engine takes a user’s query, perform LSA on a pool of documents, and returns the top documents based on cosine similarity. Demo Link: https://www.youtube.com/shorts/8y-M4dweGbg",
+    "header": "Assignment 4: Latent Semantic Analysis Search Engine webpage",
+    "description": "In this assignment, I developed an interactive web application that implements a basic search engine using Latent Semantic Analysis (LSA). The search engine takes a user’s query, perform LSA on a pool of documents, and returns the top documents based on cosine similarity. Demo Link: https://www.youtube.com/shorts/8y-M4dweGbg",
     "link": "https://github.com/hajiix/iamhaji0-assignment-4"
+  },
+  {
+    "header": "Assignment 5: K-Nearest Neighbors Kaggle Competition",
+    "description": "In this assignment, I implemented a K-Nearest Neighbors (KNN) model from scratch to predict customer churn for a bank. My goal is to identify customers who are likely to leave the bank based on historical data.",
+    "link": "https://github.com/hajiix/iamhaji0-assignment-5"
   }
 ]

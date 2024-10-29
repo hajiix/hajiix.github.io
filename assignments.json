@@ -28,5 +28,9 @@
     "header": "Assignment 5: K-Nearest Neighbors Kaggle Competition",
     "description": "In this assignment, I implemented a K-Nearest Neighbors (KNN) model from scratch to predict customer churn for a bank. My goal is to identify customers who are likely to leave the bank based on historical data.",
     "link": "https://github.com/hajiix/iamhaji0-assignment-5"
+  },
+  {"header": "Midterm",
+  "description": "Midterm",
+  "link": "https://github.com/hajiix/iamhaji0-midterm"
   }
 ]

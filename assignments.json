@@ -32,5 +32,10 @@
   {"header": "Midterm",
   "description": "Midterm",
   "link": "https://github.com/hajiix/iamhaji0-midterm"
+  },
+  {
+    "header": "Assignment 6: Linear Regression",
+    "description": "In this assignment, I explored the impact of changing parameters on linear regression. The goal was to create an interactive webpage to demonstrate how modifying these parameters affects regression results, especially when there is no actual relationship between X and Y. By tweaking these settings, I was able to observe how randomness can influence the slope and intercept in a regression model. Youtube link 1: https://youtu.be/j-ivLliM2Yk Youtube link 2: https://youtu.be/iD5ryo-u9Mc",
+    "link": "https://github.com/hajiix/iamhaji0-assignment-6"
   }
 ]

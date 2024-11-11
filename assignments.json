@@ -37,5 +37,10 @@
     "header": "Assignment 6: Linear Regression",
     "description": "In this assignment, I explored the impact of changing parameters on linear regression. The goal was to create an interactive webpage to demonstrate how modifying these parameters affects regression results, especially when there is no actual relationship between X and Y. By tweaking these settings, I was able to observe how randomness can influence the slope and intercept in a regression model. Youtube link 1: https://youtu.be/j-ivLliM2Yk Youtube link 2: https://youtu.be/iD5ryo-u9Mc",
     "link": "https://github.com/hajiix/iamhaji0-assignment-6"
+  },
+  {
+    "header": "Assignment 7: Hypothesis Testing and Confidence Intervals in Linear Regression",
+    "description": "In this assignment, I extended my previous work from Assignment 6 to include hypothesis testing and confidence intervals through simulations. I enhanced my interactive webpage to allow users to perform hypothesis tests on the slope or intercept of the regression line and generate confidence intervals based on simulations. Youtube Link: https://youtu.be/5EPh0_RoSvM?feature=shared",
+    "link": "https://github.com/hajiix/iamhaji0-assignment-7"
   }
 ]
